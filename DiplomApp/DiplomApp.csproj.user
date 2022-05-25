@@ -1,0 +1,96 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup />
+  <ItemGroup>
+    <Compile Update="AdminMenu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="AdminsPart\AdminDogovor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="AdminsPart\AdminGroups.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="AdminsPart\AdminOblast.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="AdminsPart\AdminOrg.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="AdminsPart\AdminOtklik.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="AdminsPart\AdminPrakt.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="AdminsPart\AdminPredloj.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="AdminsPart\AdminResume.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="AdminsPart\AdminRole.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="AdminsPart\AdminRykovodOrg.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="AdminsPart\AdminStudent.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="AdminsPart\AdminTabControl.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="AdminsPart\AdminTeacher.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="AdminsPart\AdminUsers.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="AutorisationForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="DogovorForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="GroupForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="OrganizationMainForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Otklic.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Predloj.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Registrations\RegistrationForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Registrations\RegistrationRykovod.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Registrations\RegistrationStudent.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Registrations\RegistrationTeacher.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ResumeForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="RykovodOrgForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="StudentForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="TeacherForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="zExports\TeacherExport.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>

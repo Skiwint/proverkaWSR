@@ -1,0 +1,165 @@
+C:\Users\Abaka\source\repos\DiplomApp\DiplomApp\obj\Debug\net5.0-windows\DiplomApp.csproj.AssemblyReference.cache
+C:\Users\Abaka\source\repos\DiplomApp\DiplomApp\obj\Debug\net5.0-windows\DiplomApp.AdminMenu.resources
+C:\Users\Abaka\source\repos\DiplomApp\DiplomApp\obj\Debug\net5.0-windows\DiplomApp.OrganizationMainForm.resources
+C:\Users\Abaka\source\repos\DiplomApp\DiplomApp\obj\Debug\net5.0-windows\DiplomApp.RegistrationForm.resources
+C:\Users\Abaka\source\repos\DiplomApp\DiplomApp\obj\Debug\net5.0-windows\DiplomApp.StudentForm.resources
+C:\Users\Abaka\source\repos\DiplomApp\DiplomApp\obj\Debug\net5.0-windows\DiplomApp.csproj.GenerateResource.cache
+C:\Users\Abaka\source\repos\DiplomApp\DiplomApp\obj\Debug\net5.0-windows\DiplomApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Abaka\source\repos\DiplomApp\DiplomApp\obj\Debug\net5.0-windows\DiplomApp.AssemblyInfoInputs.cache
+C:\Users\Abaka\source\repos\DiplomApp\DiplomApp\obj\Debug\net5.0-windows\DiplomApp.AssemblyInfo.cs
+C:\Users\Abaka\source\repos\DiplomApp\DiplomApp\obj\Debug\net5.0-windows\DiplomApp.csproj.CoreCompileInputs.cache
+C:\Users\Abaka\source\repos\DiplomApp\DiplomApp\obj\Debug\net5.0-windows\DiplomApp.AutorisationForm.resources
+C:\Users\Abaka\source\repos\DiplomApp\DiplomApp\obj\Debug\net5.0-windows\DiplomApp.RykovodOrgForm.resources
+C:\Users\Abaka\source\repos\DiplomApp\DiplomApp\obj\Debug\net5.0-windows\DiplomApp.AdminsPart.AdminDogovor.resources
+C:\Users\Abaka\source\repos\DiplomApp\DiplomApp\obj\Debug\net5.0-windows\DiplomApp.AdminsPart.AdminGroups.resources
+C:\Users\Abaka\source\repos\DiplomApp\DiplomApp\obj\Debug\net5.0-windows\DiplomApp.AdminsPart.AdminOblast.resources
+C:\Users\Abaka\source\repos\DiplomApp\DiplomApp\obj\Debug\net5.0-windows\DiplomApp.AdminsPart.AdminOrg.resources
+C:\Users\Abaka\source\repos\DiplomApp\DiplomApp\obj\Debug\net5.0-windows\DiplomApp.AdminsPart.AdminOtklik.resources
+C:\Users\Abaka\source\repos\DiplomApp\DiplomApp\obj\Debug\net5.0-windows\DiplomApp.AdminsPart.AdminPredloj.resources
+C:\Users\Abaka\source\repos\DiplomApp\DiplomApp\obj\Debug\net5.0-windows\DiplomApp.AdminsPart.AdminResume.resources
+C:\Users\Abaka\source\repos\DiplomApp\DiplomApp\obj\Debug\net5.0-windows\DiplomApp.AdminsPart.AdminRole.resources
+C:\Users\Abaka\source\repos\DiplomApp\DiplomApp\obj\Debug\net5.0-windows\DiplomApp.AdminsPart.AdminRykovodOrg.resources
+C:\Users\Abaka\source\repos\DiplomApp\DiplomApp\obj\Debug\net5.0-windows\DiplomApp.AdminsPart.AdminStudent.resources
+C:\Users\Abaka\source\repos\DiplomApp\DiplomApp\obj\Debug\net5.0-windows\DiplomApp.AdminsPart.AdminTeacher.resources
+C:\Users\Abaka\source\repos\DiplomApp\DiplomApp\obj\Debug\net5.0-windows\DiplomApp.AdminsPart.AdminUsers.resources
+C:\Users\Abaka\source\repos\DiplomApp\DiplomApp\bin\Debug\net5.0-windows\DiplomApp.exe
+C:\Users\Abaka\source\repos\DiplomApp\DiplomApp\bin\Debug\net5.0-windows\DiplomApp.deps.json
+C:\Users\Abaka\source\repos\DiplomApp\DiplomApp\bin\Debug\net5.0-windows\DiplomApp.runtimeconfig.json
+C:\Users\Abaka\source\repos\DiplomApp\DiplomApp\bin\Debug\net5.0-windows\DiplomApp.runtimeconfig.dev.json
+C:\Users\Abaka\source\repos\DiplomApp\DiplomApp\bin\Debug\net5.0-windows\DiplomApp.dll
+C:\Users\Abaka\source\repos\DiplomApp\DiplomApp\bin\Debug\net5.0-windows\ref\DiplomApp.dll
+C:\Users\Abaka\source\repos\DiplomApp\DiplomApp\bin\Debug\net5.0-windows\DiplomApp.pdb
+C:\Users\Abaka\source\repos\DiplomApp\DiplomApp\obj\Debug\net5.0-windows\DiplomApp.dll
+C:\Users\Abaka\source\repos\DiplomApp\DiplomApp\obj\Debug\net5.0-windows\ref\DiplomApp.dll
+C:\Users\Abaka\source\repos\DiplomApp\DiplomApp\obj\Debug\net5.0-windows\DiplomApp.pdb
+C:\Users\Abaka\source\repos\DiplomApp\DiplomApp\obj\Debug\net5.0-windows\DiplomApp.genruntimeconfig.cache
+C:\Users\Abaka\source\repos\DiplomApp\DiplomApp\bin\Debug\net5.0-windows\Maroquio.dll
+C:\Users\Abaka\source\repos\DiplomApp\DiplomApp\bin\Debug\net5.0-windows\Newtonsoft.Json.dll
+C:\Users\Abaka\source\repos\DiplomApp\DiplomApp\obj\Debug\net5.0-windows\DiplomApp.csproj.CopyComplete
+C:\Users\Abaka\source\repos\DiplomApp\DiplomApp\obj\Debug\net5.0-windows\DiplomApp.DogovorForm.resources
+C:\Users\Abaka\source\repos\DiplomApp\DiplomApp\obj\Debug\net5.0-windows\DiplomApp.ResumeForm.resources
+C:\Users\Abaka\source\repos\DiplomApp\DiplomApp\obj\Debug\net5.0-windows\DiplomApp.TeacherForm.resources
+C:\Users\Abaka\source\repos\DiplomApp\DiplomApp\obj\Debug\net5.0-windows\DiplomApp.RegistrationTeacher.resources
+C:\Users\Abaka\source\repos\DiplomApp\DiplomApp\obj\Debug\net5.0-windows\DiplomApp.RegistrationRykovod.resources
+C:\Users\Abaka\source\repos\DiplomApp\DiplomApp\obj\Debug\net5.0-windows\DiplomApp.RegistrationStudent.resources
+C:\Users\Abaka\source\repos\DiplomApp\DiplomApp\obj\Debug\net5.0-windows\DiplomApp.GroupForm.resources
+C:\Users\Abaka\source\repos\DiplomApp\DiplomApp\obj\Debug\net5.0-windows\DiplomApp.Otklic.resources
+C:\Users\Abaka\source\repos\DiplomApp\DiplomApp\obj\Debug\net5.0-windows\DiplomApp.Predloj.resources
+C:\Users\Abaka\source\repos\DiplomApp\DiplomApp\obj\Debug\net5.0-windows\DiplomApp.AdminsPart.AdminPrakt.resources
+C:\Users\Abaka\source\repos\DiplomApp\DiplomApp\obj\Debug\net5.0-windows\DiplomApp.zExports.TeacherExport.resources
+C:\Users\Abaka\source\repos\DiplomApp\DiplomApp\bin\Debug\net5.0-windows\BouncyCastle.Crypto.dll
+C:\Users\Abaka\source\repos\DiplomApp\DiplomApp\bin\Debug\net5.0-windows\itextsharp.dll
+C:\Users\Abaka\source\repos\DiplomApp\DiplomApp\obj\Debug\net5.0-windows\Interop.Microsoft.Office.Interop.Excel.dll
+C:\Users\Abaka\source\repos\DiplomApp\DiplomApp\obj\Debug\net5.0-windows\Interop.Microsoft.Office.Interop.Word.dll
+C:\Users\Abaka\source\repos\DiplomApp\DiplomApp\obj\Debug\net5.0-windows\DiplomApp.csproj.ResolveComReference.cache
+C:\Users\Abaka\source\repos\DiplomApp\DiplomApp\obj\Debug\net5.0-windows\DiplomApp.AdminsPart.AdminTabControl.resources
+D:\Desktop\DiplomApp\DiplomApp\bin\Debug\net5.0-windows\DiplomApp.exe
+D:\Desktop\DiplomApp\DiplomApp\bin\Debug\net5.0-windows\DiplomApp.deps.json
+D:\Desktop\DiplomApp\DiplomApp\bin\Debug\net5.0-windows\DiplomApp.runtimeconfig.json
+D:\Desktop\DiplomApp\DiplomApp\bin\Debug\net5.0-windows\DiplomApp.runtimeconfig.dev.json
+D:\Desktop\DiplomApp\DiplomApp\bin\Debug\net5.0-windows\DiplomApp.dll
+D:\Desktop\DiplomApp\DiplomApp\bin\Debug\net5.0-windows\DiplomApp.pdb
+D:\Desktop\DiplomApp\DiplomApp\bin\Debug\net5.0-windows\BouncyCastle.Crypto.dll
+D:\Desktop\DiplomApp\DiplomApp\bin\Debug\net5.0-windows\itextsharp.dll
+D:\Desktop\DiplomApp\DiplomApp\bin\Debug\net5.0-windows\Maroquio.dll
+D:\Desktop\DiplomApp\DiplomApp\bin\Debug\net5.0-windows\Newtonsoft.Json.dll
+D:\Desktop\DiplomApp\DiplomApp\obj\Debug\net5.0-windows\DiplomApp.csproj.AssemblyReference.cache
+D:\Desktop\DiplomApp\DiplomApp\obj\Debug\net5.0-windows\Interop.Microsoft.Office.Interop.Excel.dll
+D:\Desktop\DiplomApp\DiplomApp\obj\Debug\net5.0-windows\Interop.Microsoft.Office.Interop.Word.dll
+D:\Desktop\DiplomApp\DiplomApp\obj\Debug\net5.0-windows\DiplomApp.csproj.ResolveComReference.cache
+D:\Desktop\DiplomApp\DiplomApp\obj\Debug\net5.0-windows\DiplomApp.AdminMenu.resources
+D:\Desktop\DiplomApp\DiplomApp\obj\Debug\net5.0-windows\DiplomApp.AdminsPart.AdminDogovor.resources
+D:\Desktop\DiplomApp\DiplomApp\obj\Debug\net5.0-windows\DiplomApp.AdminsPart.AdminGroups.resources
+D:\Desktop\DiplomApp\DiplomApp\obj\Debug\net5.0-windows\DiplomApp.AdminsPart.AdminOblast.resources
+D:\Desktop\DiplomApp\DiplomApp\obj\Debug\net5.0-windows\DiplomApp.AdminsPart.AdminOrg.resources
+D:\Desktop\DiplomApp\DiplomApp\obj\Debug\net5.0-windows\DiplomApp.AdminsPart.AdminOtklik.resources
+D:\Desktop\DiplomApp\DiplomApp\obj\Debug\net5.0-windows\DiplomApp.AdminsPart.AdminPrakt.resources
+D:\Desktop\DiplomApp\DiplomApp\obj\Debug\net5.0-windows\DiplomApp.AdminsPart.AdminPredloj.resources
+D:\Desktop\DiplomApp\DiplomApp\obj\Debug\net5.0-windows\DiplomApp.AdminsPart.AdminResume.resources
+D:\Desktop\DiplomApp\DiplomApp\obj\Debug\net5.0-windows\DiplomApp.AdminsPart.AdminRole.resources
+D:\Desktop\DiplomApp\DiplomApp\obj\Debug\net5.0-windows\DiplomApp.AdminsPart.AdminRykovodOrg.resources
+D:\Desktop\DiplomApp\DiplomApp\obj\Debug\net5.0-windows\DiplomApp.AdminsPart.AdminStudent.resources
+D:\Desktop\DiplomApp\DiplomApp\obj\Debug\net5.0-windows\DiplomApp.AdminsPart.AdminTabControl.resources
+D:\Desktop\DiplomApp\DiplomApp\obj\Debug\net5.0-windows\DiplomApp.AdminsPart.AdminTeacher.resources
+D:\Desktop\DiplomApp\DiplomApp\obj\Debug\net5.0-windows\DiplomApp.AdminsPart.AdminUsers.resources
+D:\Desktop\DiplomApp\DiplomApp\obj\Debug\net5.0-windows\DiplomApp.AutorisationForm.resources
+D:\Desktop\DiplomApp\DiplomApp\obj\Debug\net5.0-windows\DiplomApp.DogovorForm.resources
+D:\Desktop\DiplomApp\DiplomApp\obj\Debug\net5.0-windows\DiplomApp.GroupForm.resources
+D:\Desktop\DiplomApp\DiplomApp\obj\Debug\net5.0-windows\DiplomApp.OrganizationMainForm.resources
+D:\Desktop\DiplomApp\DiplomApp\obj\Debug\net5.0-windows\DiplomApp.Otklic.resources
+D:\Desktop\DiplomApp\DiplomApp\obj\Debug\net5.0-windows\DiplomApp.Predloj.resources
+D:\Desktop\DiplomApp\DiplomApp\obj\Debug\net5.0-windows\DiplomApp.RegistrationForm.resources
+D:\Desktop\DiplomApp\DiplomApp\obj\Debug\net5.0-windows\DiplomApp.RegistrationRykovod.resources
+D:\Desktop\DiplomApp\DiplomApp\obj\Debug\net5.0-windows\DiplomApp.RegistrationStudent.resources
+D:\Desktop\DiplomApp\DiplomApp\obj\Debug\net5.0-windows\DiplomApp.RegistrationTeacher.resources
+D:\Desktop\DiplomApp\DiplomApp\obj\Debug\net5.0-windows\DiplomApp.ResumeForm.resources
+D:\Desktop\DiplomApp\DiplomApp\obj\Debug\net5.0-windows\DiplomApp.RykovodOrgForm.resources
+D:\Desktop\DiplomApp\DiplomApp\obj\Debug\net5.0-windows\DiplomApp.StudentForm.resources
+D:\Desktop\DiplomApp\DiplomApp\obj\Debug\net5.0-windows\DiplomApp.TeacherForm.resources
+D:\Desktop\DiplomApp\DiplomApp\obj\Debug\net5.0-windows\DiplomApp.zExports.TeacherExport.resources
+D:\Desktop\DiplomApp\DiplomApp\obj\Debug\net5.0-windows\DiplomApp.csproj.GenerateResource.cache
+D:\Desktop\DiplomApp\DiplomApp\obj\Debug\net5.0-windows\DiplomApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Desktop\DiplomApp\DiplomApp\obj\Debug\net5.0-windows\DiplomApp.AssemblyInfoInputs.cache
+D:\Desktop\DiplomApp\DiplomApp\obj\Debug\net5.0-windows\DiplomApp.AssemblyInfo.cs
+D:\Desktop\DiplomApp\DiplomApp\obj\Debug\net5.0-windows\DiplomApp.csproj.CoreCompileInputs.cache
+D:\Desktop\DiplomApp\DiplomApp\obj\Debug\net5.0-windows\DiplomApp.csproj.CopyComplete
+D:\Desktop\DiplomApp\DiplomApp\obj\Debug\net5.0-windows\DiplomApp.dll
+D:\Desktop\DiplomApp\DiplomApp\obj\Debug\net5.0-windows\refint\DiplomApp.dll
+D:\Desktop\DiplomApp\DiplomApp\obj\Debug\net5.0-windows\DiplomApp.pdb
+D:\Desktop\DiplomApp\DiplomApp\obj\Debug\net5.0-windows\DiplomApp.genruntimeconfig.cache
+D:\Desktop\DiplomApp\DiplomApp\obj\Debug\net5.0-windows\ref\DiplomApp.dll
+C:\Users\Abaka\OneDrive\Рабочий стол\DiplomApp\DiplomApp\bin\Debug\net5.0-windows\DiplomApp.exe
+C:\Users\Abaka\OneDrive\Рабочий стол\DiplomApp\DiplomApp\bin\Debug\net5.0-windows\DiplomApp.deps.json
+C:\Users\Abaka\OneDrive\Рабочий стол\DiplomApp\DiplomApp\bin\Debug\net5.0-windows\DiplomApp.runtimeconfig.json
+C:\Users\Abaka\OneDrive\Рабочий стол\DiplomApp\DiplomApp\bin\Debug\net5.0-windows\DiplomApp.runtimeconfig.dev.json
+C:\Users\Abaka\OneDrive\Рабочий стол\DiplomApp\DiplomApp\bin\Debug\net5.0-windows\DiplomApp.dll
+C:\Users\Abaka\OneDrive\Рабочий стол\DiplomApp\DiplomApp\bin\Debug\net5.0-windows\ref\DiplomApp.dll
+C:\Users\Abaka\OneDrive\Рабочий стол\DiplomApp\DiplomApp\bin\Debug\net5.0-windows\DiplomApp.pdb
+C:\Users\Abaka\OneDrive\Рабочий стол\DiplomApp\DiplomApp\bin\Debug\net5.0-windows\BouncyCastle.Crypto.dll
+C:\Users\Abaka\OneDrive\Рабочий стол\DiplomApp\DiplomApp\bin\Debug\net5.0-windows\itextsharp.dll
+C:\Users\Abaka\OneDrive\Рабочий стол\DiplomApp\DiplomApp\bin\Debug\net5.0-windows\Maroquio.dll
+C:\Users\Abaka\OneDrive\Рабочий стол\DiplomApp\DiplomApp\bin\Debug\net5.0-windows\Newtonsoft.Json.dll
+C:\Users\Abaka\OneDrive\Рабочий стол\DiplomApp\DiplomApp\obj\Debug\net5.0-windows\DiplomApp.csproj.AssemblyReference.cache
+C:\Users\Abaka\OneDrive\Рабочий стол\DiplomApp\DiplomApp\obj\Debug\net5.0-windows\Interop.Microsoft.Office.Interop.Excel.dll
+C:\Users\Abaka\OneDrive\Рабочий стол\DiplomApp\DiplomApp\obj\Debug\net5.0-windows\Interop.Microsoft.Office.Interop.Word.dll
+C:\Users\Abaka\OneDrive\Рабочий стол\DiplomApp\DiplomApp\obj\Debug\net5.0-windows\DiplomApp.csproj.ResolveComReference.cache
+C:\Users\Abaka\OneDrive\Рабочий стол\DiplomApp\DiplomApp\obj\Debug\net5.0-windows\DiplomApp.AdminMenu.resources
+C:\Users\Abaka\OneDrive\Рабочий стол\DiplomApp\DiplomApp\obj\Debug\net5.0-windows\DiplomApp.AdminsPart.AdminDogovor.resources
+C:\Users\Abaka\OneDrive\Рабочий стол\DiplomApp\DiplomApp\obj\Debug\net5.0-windows\DiplomApp.AdminsPart.AdminGroups.resources
+C:\Users\Abaka\OneDrive\Рабочий стол\DiplomApp\DiplomApp\obj\Debug\net5.0-windows\DiplomApp.AdminsPart.AdminOblast.resources
+C:\Users\Abaka\OneDrive\Рабочий стол\DiplomApp\DiplomApp\obj\Debug\net5.0-windows\DiplomApp.AdminsPart.AdminOrg.resources
+C:\Users\Abaka\OneDrive\Рабочий стол\DiplomApp\DiplomApp\obj\Debug\net5.0-windows\DiplomApp.AdminsPart.AdminOtklik.resources
+C:\Users\Abaka\OneDrive\Рабочий стол\DiplomApp\DiplomApp\obj\Debug\net5.0-windows\DiplomApp.AdminsPart.AdminPrakt.resources
+C:\Users\Abaka\OneDrive\Рабочий стол\DiplomApp\DiplomApp\obj\Debug\net5.0-windows\DiplomApp.AdminsPart.AdminPredloj.resources
+C:\Users\Abaka\OneDrive\Рабочий стол\DiplomApp\DiplomApp\obj\Debug\net5.0-windows\DiplomApp.AdminsPart.AdminResume.resources
+C:\Users\Abaka\OneDrive\Рабочий стол\DiplomApp\DiplomApp\obj\Debug\net5.0-windows\DiplomApp.AdminsPart.AdminRole.resources
+C:\Users\Abaka\OneDrive\Рабочий стол\DiplomApp\DiplomApp\obj\Debug\net5.0-windows\DiplomApp.AdminsPart.AdminRykovodOrg.resources
+C:\Users\Abaka\OneDrive\Рабочий стол\DiplomApp\DiplomApp\obj\Debug\net5.0-windows\DiplomApp.AdminsPart.AdminStudent.resources
+C:\Users\Abaka\OneDrive\Рабочий стол\DiplomApp\DiplomApp\obj\Debug\net5.0-windows\DiplomApp.AdminsPart.AdminTabControl.resources
+C:\Users\Abaka\OneDrive\Рабочий стол\DiplomApp\DiplomApp\obj\Debug\net5.0-windows\DiplomApp.AdminsPart.AdminTeacher.resources
+C:\Users\Abaka\OneDrive\Рабочий стол\DiplomApp\DiplomApp\obj\Debug\net5.0-windows\DiplomApp.AdminsPart.AdminUsers.resources
+C:\Users\Abaka\OneDrive\Рабочий стол\DiplomApp\DiplomApp\obj\Debug\net5.0-windows\DiplomApp.AutorisationForm.resources
+C:\Users\Abaka\OneDrive\Рабочий стол\DiplomApp\DiplomApp\obj\Debug\net5.0-windows\DiplomApp.DogovorForm.resources
+C:\Users\Abaka\OneDrive\Рабочий стол\DiplomApp\DiplomApp\obj\Debug\net5.0-windows\DiplomApp.GroupForm.resources
+C:\Users\Abaka\OneDrive\Рабочий стол\DiplomApp\DiplomApp\obj\Debug\net5.0-windows\DiplomApp.OrganizationMainForm.resources
+C:\Users\Abaka\OneDrive\Рабочий стол\DiplomApp\DiplomApp\obj\Debug\net5.0-windows\DiplomApp.Otklic.resources
+C:\Users\Abaka\OneDrive\Рабочий стол\DiplomApp\DiplomApp\obj\Debug\net5.0-windows\DiplomApp.Predloj.resources
+C:\Users\Abaka\OneDrive\Рабочий стол\DiplomApp\DiplomApp\obj\Debug\net5.0-windows\DiplomApp.RegistrationForm.resources
+C:\Users\Abaka\OneDrive\Рабочий стол\DiplomApp\DiplomApp\obj\Debug\net5.0-windows\DiplomApp.RegistrationRykovod.resources
+C:\Users\Abaka\OneDrive\Рабочий стол\DiplomApp\DiplomApp\obj\Debug\net5.0-windows\DiplomApp.RegistrationStudent.resources
+C:\Users\Abaka\OneDrive\Рабочий стол\DiplomApp\DiplomApp\obj\Debug\net5.0-windows\DiplomApp.RegistrationTeacher.resources
+C:\Users\Abaka\OneDrive\Рабочий стол\DiplomApp\DiplomApp\obj\Debug\net5.0-windows\DiplomApp.ResumeForm.resources
+C:\Users\Abaka\OneDrive\Рабочий стол\DiplomApp\DiplomApp\obj\Debug\net5.0-windows\DiplomApp.RykovodOrgForm.resources
+C:\Users\Abaka\OneDrive\Рабочий стол\DiplomApp\DiplomApp\obj\Debug\net5.0-windows\DiplomApp.StudentForm.resources
+C:\Users\Abaka\OneDrive\Рабочий стол\DiplomApp\DiplomApp\obj\Debug\net5.0-windows\DiplomApp.TeacherForm.resources
+C:\Users\Abaka\OneDrive\Рабочий стол\DiplomApp\DiplomApp\obj\Debug\net5.0-windows\DiplomApp.zExports.TeacherExport.resources
+C:\Users\Abaka\OneDrive\Рабочий стол\DiplomApp\DiplomApp\obj\Debug\net5.0-windows\DiplomApp.csproj.GenerateResource.cache
+C:\Users\Abaka\OneDrive\Рабочий стол\DiplomApp\DiplomApp\obj\Debug\net5.0-windows\DiplomApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Abaka\OneDrive\Рабочий стол\DiplomApp\DiplomApp\obj\Debug\net5.0-windows\DiplomApp.AssemblyInfoInputs.cache
+C:\Users\Abaka\OneDrive\Рабочий стол\DiplomApp\DiplomApp\obj\Debug\net5.0-windows\DiplomApp.AssemblyInfo.cs
+C:\Users\Abaka\OneDrive\Рабочий стол\DiplomApp\DiplomApp\obj\Debug\net5.0-windows\DiplomApp.csproj.CoreCompileInputs.cache
+C:\Users\Abaka\OneDrive\Рабочий стол\DiplomApp\DiplomApp\obj\Debug\net5.0-windows\DiplomApp.csproj.CopyComplete
+C:\Users\Abaka\OneDrive\Рабочий стол\DiplomApp\DiplomApp\obj\Debug\net5.0-windows\DiplomApp.dll
+C:\Users\Abaka\OneDrive\Рабочий стол\DiplomApp\DiplomApp\obj\Debug\net5.0-windows\ref\DiplomApp.dll
+C:\Users\Abaka\OneDrive\Рабочий стол\DiplomApp\DiplomApp\obj\Debug\net5.0-windows\DiplomApp.pdb
+C:\Users\Abaka\OneDrive\Рабочий стол\DiplomApp\DiplomApp\obj\Debug\net5.0-windows\DiplomApp.genruntimeconfig.cache

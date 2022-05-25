@@ -1,0 +1,312 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="DiplomApp.AdminsPart.AdminDogovor">
+    <Position X="53.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQSQBAAAACAgABACgACgAAACAQAACBAAIEAAAEACYAI=</HashCode>
+      <FileName>AdminsPart\AdminDogovor.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DiplomApp.AdminsPart.AdminGroups">
+    <Position X="55.5" Y="7" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QBAgACAAgCAIABAAAACEAQAGAAAgIAogABAAAAASAAA=</HashCode>
+      <FileName>AdminsPart\AdminGroups.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DiplomApp.AdminsPart.AdminOblast">
+    <Position X="57.25" Y="7" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABCABAAAACAAABgAABCAAAAGBAAQAAAEAAAAAAAEQmA=</HashCode>
+      <FileName>AdminsPart\AdminOblast.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DiplomApp.AdminsPart.AdminOrg">
+    <Position X="55.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AASABEEAAGBAEBAAEACAABAKAAgEAAAAAABgAAAAQgA=</HashCode>
+      <FileName>AdminsPart\AdminOrg.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DiplomApp.AdminsPart.AdminOtklik">
+    <Position X="52" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACEBEQABiAAIJEEAAjAAAACCAQAAQaRAAgAAAADQAA=</HashCode>
+      <FileName>AdminsPart\AdminOtklik.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DiplomApp.AdminsPart.AdminPredloj">
+    <Position X="52" Y="10" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAGUBAQAACoAQDBAgACgAQACJAAAACAAgAAAAAAAQEA=</HashCode>
+      <FileName>AdminsPart\AdminPredloj.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DiplomApp.AdminsPart.AdminResume">
+    <Position X="36" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACBBSABAGAAABAAIACAAABCAACAABQAAAAAAAACQAg=</HashCode>
+      <FileName>AdminsPart\AdminResume.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DiplomApp.AdminsPart.AdminRole">
+    <Position X="36" Y="7" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACAAAAgECAAABIAgACCEAACABAAQAQAAAAIAEIAIAA=</HashCode>
+      <FileName>AdminsPart\AdminRole.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DiplomApp.AdminsPart.AdminRykovodOrg">
+    <Position X="34.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IACABBAAACQAUBBAgQCAAAgCIAAAABBwCAAAgQAABAA=</HashCode>
+      <FileName>AdminsPart\AdminRykovodOrg.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DiplomApp.AdminsPart.AdminStudent">
+    <Position X="50.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>YATABAAAACIAABAAAQCAAQwCAAAIAIQIAAIAAAQCBEI=</HashCode>
+      <FileName>AdminsPart\AdminStudent.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DiplomApp.AdminsPart.AdminTeacher">
+    <Position X="57.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IECADAAggCAAABAgAQGEQAgCQAAAAAAAAAAAAAAABAI=</HashCode>
+      <FileName>AdminsPart\AdminTeacher.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DiplomApp.AdminsPart.AdminUsers">
+    <Position X="46.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IACABAIAACQgAhAAAACCAEATAAgAAAAiAAAYAAAAAAA=</HashCode>
+      <FileName>AdminsPart\AdminUsers.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DiplomApp.RegistrationForm">
+    <Position X="57.25" Y="12.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IAAAAAgAACAAABAAgQCCAAACAAAAAAACAAAQAAAABAA=</HashCode>
+      <FileName>Registrations\RegistrationForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DiplomApp.RegistrationRykovod">
+    <Position X="45" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACCJAAAACAAEJABAQCAAAACAAAAAIBAAACAAAAABAA=</HashCode>
+      <FileName>Registrations\RegistrationRykovod.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DiplomApp.RegistrationStudent">
+    <Position X="37.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QATABAAAACAAAJABAQCAAAACAAAAAIAAAACAAAAABCI=</HashCode>
+      <FileName>Registrations\RegistrationStudent.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DiplomApp.RegistrationTeacher">
+    <Position X="41.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACABAAAACAAAJABAQCAAAACAAAAAIAAAACAAAAABAA=</HashCode>
+      <FileName>Registrations\RegistrationTeacher.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DiplomApp.Program">
+    <Position X="43" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Clasess\Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DiplomApp.AdminMenu">
+    <Position X="48.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ICCgBGAAACEAADAAIGGAAkYiBAAAgQEAAAAAAAAhCAA=</HashCode>
+      <FileName>AdminMenu.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DiplomApp.AutorisationForm">
+    <Position X="46.75" Y="9" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IgAAAACAACQAABAAAACCAAACAgAAAAACkAgAAAACAAI=</HashCode>
+      <FileName>AutorisationForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DiplomApp.DogovorForm">
+    <Position X="50.25" Y="8.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQSQBAAAACAgABACgACgAAQCAQAAABAAIEAAAEACYAI=</HashCode>
+      <FileName>DogovorForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DiplomApp.GroupForm">
+    <Position X="48.5" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QBAAACAAgCAIABAAAAKEAQAGAAAgAAogABAAAAASAAA=</HashCode>
+      <FileName>GroupForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DiplomApp.OrganizationMainForm">
+    <Position X="45" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IASAAAEAAGBAEBAAEACAABAKAAgEAAAAAABgAAAAQgA=</HashCode>
+      <FileName>OrganizationMainForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DiplomApp.Otklic">
+    <Position X="53.75" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAABCAAABEEAACEAAACAAQAAAIRAAAAAAACQAA=</HashCode>
+      <FileName>Otklic.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DiplomApp.Predloj">
+    <Position X="39.5" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAGAAAAAACgAADAAAACgAAACIAAAACAAAAAAAAAAQEA=</HashCode>
+      <FileName>Predloj.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DiplomApp.ResumeForm">
+    <Position X="39.5" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AACBAQAAAGAAABAAIACAAABCAACAAAQAAEAAAAACQAA=</HashCode>
+      <FileName>ResumeForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DiplomApp.RykovodOrgForm">
+    <Position X="41.25" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAJAAAACAAEpAAoQCAAEgCAMAYAABIACAAAAAABAA=</HashCode>
+      <FileName>RykovodOrgForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DiplomApp.StudentForm">
+    <Position X="43" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QATABABAACIAIJAAARCAAAgCAEAIAAAIEABAAAACBAI=</HashCode>
+      <FileName>StudentForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DiplomApp.TeacherForm">
+    <Position X="37.75" Y="6.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>IALAAAAIACMAARgAQQCAQAgCAAAIAAAIAAAAAAAABAI=</HashCode>
+      <FileName>TeacherForm.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DiplomApp.Models.Dogovor">
+    <Position X="59" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>BAACSAAAAAAAACIAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\Dogovor.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DiplomApp.Models.Group">
+    <Position X="55.5" Y="13.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAAAAIIAAAAAAAQAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\Group.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DiplomApp.Models.Napr">
+    <Position X="61" Y="11.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAiAAAAAAAAAAIAAAAAAAQAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\Napr.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DiplomApp.Models.Organization">
+    <Position X="59" Y="7.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAiAAAAAAAAAAIEAAAAAAQAAAgAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Models\Organization.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DiplomApp.Models.Otklik">
+    <Position X="61" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ACACCCAAAAAAAAIAAAAAAAAAAAAAAAAAAAABAAAAAAA=</HashCode>
+      <FileName>Models\Otklik.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DiplomApp.Models.Predlojenye">
+    <Position X="61" Y="9" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACACAAAAAAACIAAAAAAAAAAAAAAAAAAAABAAAAAAA=</HashCode>
+      <FileName>Models\Predlojenye.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DiplomApp.Models.Resume">
+    <Position X="59" Y="10.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAiCAAAAAAAAAIAAAAAAAQAAAAAAAAAAAAAQAAAAAA=</HashCode>
+      <FileName>Models\Resume.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DiplomApp.Models.Role">
+    <Position X="59" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAAAAAIAAAAAAAAAAAAAAAAAAAAAEAAAAAA=</HashCode>
+      <FileName>Models\Role.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DiplomApp.Models.Rykovod">
+    <Position X="61" Y="14.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAAAAAIAAQAAAQgAAAAEAAAABAAIAAAAAAA=</HashCode>
+      <FileName>Models\Rykovod.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DiplomApp.Models.Student">
+    <Position X="59" Y="13.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACQAAAAAAAAAIAASAAAAgAAAAAAAAABAAIAAAAAAA=</HashCode>
+      <FileName>Models\Student.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DiplomApp.Models.Teacher">
+    <Position X="61" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAAAAAIAAQAAAAgAAAAAAAAABAAIAAAAAAA=</HashCode>
+      <FileName>Models\Teacher.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DiplomApp.Models.User">
+    <Position X="61" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAIAAAAAAAIAAAAAAAAAAAAAAAACAAAQAAAAAAA=</HashCode>
+      <FileName>Models\User.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DiplomApp.Clasess.AllModel&lt;TObj&gt;">
+    <Position X="43" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAJAAAAAAAAAAAAAAAAAAAAAEAAAAAA=</HashCode>
+      <FileName>Clasess\AllModels.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DiplomApp.Clasess.Global">
+    <Position X="43" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Clasess\Global.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DiplomApp.Clasess.ModelAbstract">
+    <Position X="59" Y="5.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAAAAAIAAAAAAAAAAAAAAAAAIAAAAAAAAAA=</HashCode>
+      <FileName>Clasess\ModelAbstract.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DiplomApp.Clasess.RequestHeplper">
+    <Position X="46.75" Y="6.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAYAAAAAAAABAABAAAAAAAAAAAEAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Clasess\RequestHeplper.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
